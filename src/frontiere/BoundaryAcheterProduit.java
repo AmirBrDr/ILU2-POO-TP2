@@ -5,7 +5,6 @@ import java.util.Scanner;
 import controleur.ControlAcheterProduit;
 
 public class BoundaryAcheterProduit {
-	private Scanner scan = new Scanner(System.in);
 	private ControlAcheterProduit controlAcheterProduit;
 
 	public BoundaryAcheterProduit(ControlAcheterProduit controlAcheterProduit) {
